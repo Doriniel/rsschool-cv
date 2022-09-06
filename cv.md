@@ -28,8 +28,14 @@ let min = Math.min.apply(null, ages);
 let difference = max - min;
 return [min, max, difference];
 ```
-## 📚 Education
-* [https://bootcamp.algoritmika.org/](Algoritmica coding bootcamp 2021)
-* [https://www.udemy.com/course/the-complete-web-development-bootcamp/](Udemy web-developer bootcamp (in progress))
-* RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
 ## Experience
+
+## 📚 Education
+* [Algoritmica coding bootcamp 2021](https://bootcamp.algoritmika.org/)
+* [Udemy web-developer bootcamp (in progress)](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+* RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+
+## 🌍 Languages
+* :gb: English - C1
+* 🇪🇸 Spanish - B1
+* 🇷🇺 Russian - native
