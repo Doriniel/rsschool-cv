@@ -5,6 +5,7 @@
 * **Phone:** +90 534 079 22 34
 * **Telegram:** @doriniel
 * **Discord:** Maria Pyzhikova (@doriniel)
+
 ## 👩🏻‍🦰 About me
 Hi, I'm Maria, 30 y.o. I strongly believe in a lifelong learning path. I'm sure that anyone can change his or her profession if paying enough efforts and determination.
 
