@@ -114,7 +114,7 @@ p {
     background-image:linear-gradient(to top right, cornflowerblue, rgb(25, 63, 133));
 }
 
-a.btn{
+.btn{
     color: white;
     font-size: 1.1rem;
     line-height: 20px;
