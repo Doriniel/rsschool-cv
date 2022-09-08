@@ -1,0 +1,168 @@
+
+body {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(50, 50, 50);
+    margin: 0;
+}
+
+h1 {
+    color:rgb(57, 57, 201);
+    font-size: 4.5rem;
+    font-family: 'Pacifico', cursive;
+    margin: auto;
+    padding-top: 40px;
+}
+
+h2 {
+    font-size: 2rem;
+    font-weight: 400;
+    margin: 0;
+    padding-top: 20px;
+}
+
+h3 {
+    font-weight: 600;
+}
+
+p {
+    font-size: 18px;
+}
+
+.top-container {
+    margin: auto;
+    background-color: rgb(237, 225, 97);
+    position: relative;
+}
+
+.mountain {
+    display: block;
+    width: 270px;
+    padding-top: 40px;
+    margin: 0 auto;
+}
+
+.cloud-top{
+    width: 110px;
+    position: absolute;
+    top: 100px;
+    left: 400px;
+}
+
+.cloud-bottom {
+    width: 110px;
+    position: absolute;
+    bottom: 240px;
+    right:350px;
+}
+
+.middle-container {
+    margin: auto;
+}
+
+.profile{
+    padding: 40px 0;
+    background-color: rgb(228, 158, 158);
+}
+
+.profile .about{
+    width: 60%;
+    margin: 20px auto;
+}
+
+.avatar{
+   width: 160px;
+   background-color: white;
+   border-radius: 100%;
+}
+
+.skills{
+    padding: 10px;
+    background-color: rgb(134, 171, 240);
+}
+
+.skill-row {
+    display: flex;
+    justify-content: space-between;
+    align-content: flex-start;
+    box-sizing: border-box;
+    width: 50%;
+    margin:60px auto;
+    text-align: left;
+    line-height: 2;
+}
+.skill-row.reverse {
+    flex-direction: row-reverse;
+}
+
+.skill_icon{
+    display: block;
+    width: 10rem;
+    object-fit:contain;
+    margin-right: 30px;
+}
+
+.contact-me {
+    background-color: rgb(237, 225, 97);
+    padding-bottom: 50px;
+}
+
+.contact-button {
+    padding: 10px;
+    border: 0;
+    border-radius: 8px;
+    background-image:linear-gradient(to top right, cornflowerblue, rgb(25, 63, 133));
+}
+
+a.btn{
+    color: white;
+    font-size: 1.1rem;
+    line-height: 20px;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.contact-button:hover {
+    background-image:linear-gradient(to top right, rgb(44, 111, 234), rgb(27, 64, 133));
+    cursor:pointer;
+    box-shadow: 4px 4px 5px 0px white;
+}
+
+.bottom-container {
+    padding:15px 0 15px;
+    background-color: rgb(228, 158, 158);
+    box-sizing: border-box;
+    padding-top: 20px;
+}
+
+.bottom-container p {
+    font-size: 14px;
+    color: white;
+    width: 70%;
+}
+
+.bottom-container a {
+    text-decoration: none;
+    color: rgb(50, 50, 50);
+    margin: 10px;
+}
+
+.bottom-container a:hover {
+    color: white;
+    cursor: pointer;
+}
+
+.about {
+position: relative;
+}
+
+.about::before {
+    content: "";
+    background-image: url(https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/310/red-heart_2764-fe0f.png);
+    background-size: cover;
+    width: 2em;
+    height: 2em;
+    display: block;
+    float: left;
+    margin: 0 1rem;
+}
